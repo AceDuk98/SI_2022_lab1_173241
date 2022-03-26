@@ -2,4 +2,4 @@ Chips x 3
 Wine x 5
 Chocolate x 3
 Coca Cola x 3
-Tomato x 3
+Tomato x 1
