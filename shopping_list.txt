@@ -1,5 +1,5 @@
-Chips
-Wine
-Chocolate
-Coca Cola
-Tomato
+Chips x 3
+Wine x 3
+Chocolate x 3
+Coca Cola x 3
+Tomato x 3
